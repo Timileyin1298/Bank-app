@@ -3,7 +3,7 @@ import time
 import sys
 accountBal = 5000
 custormer_info = {}
-wuiuoaww4r
+
 
 def homepage():
     print('''Welcome to access bank. Your satisfaction is our priority.\nEnter 1 to register\nEnter 2 to login\nEnter 3 to quit''')
